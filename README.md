@@ -1,0 +1,2 @@
+# scihubbrowser
+use sci-hub
